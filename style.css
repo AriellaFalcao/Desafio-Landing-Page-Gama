@@ -1,0 +1,103 @@
+body{
+   text-align:center ; 
+   font-family:Open Sans,sans-serif; ; 
+   background-color:#fff;
+   margin:0px 0px 30px 0px;
+   color:#000
+ }
+
+ h1{
+     font-size: 30px; 
+      border:8px;
+ }
+ h2{
+    font-size: 15px:
+ }
+ h3{
+    font-size: 10px:
+ }
+
+ section{
+     width: 60%;
+     margin: 0 auto;
+ }
+
+ img{
+    width: 70%;
+ }
+
+ ul{
+    list-style-type:none; 
+    line-height:2;
+    padding-left: 0;
+  }
+  
+  a{
+    text-decoration:none;
+    color:black;
+    font-weight:700;
+  }
+  
+  .principal{
+    background-color: #8d5212;
+    height: 40px;
+    max-width:60%;
+    margin:0 auto;
+    border-radius: 8px;
+  }
+  
+  .principal li{
+    display: inline-block;
+    line-height: 2.5;
+     margin: 0 89px;
+  }
+  
+  .principal a{
+    color:#fff;
+    font-weight:500;
+  }
+  
+  #email{
+    border-radius: 8px;
+  }
+
+  #nome{
+    border-radius: 8px;
+  }
+
+  #Home{
+    justify-content: center;
+    border-style:none;
+    color: #000;
+  }
+
+  #Produtos{
+    color: #000;;
+    border-radius: 8px; 
+    margin-bottom:8px 
+  }
+
+  #Contato{
+    border-radius: 8px; 
+    color: #ffff;
+    background-color: #8d5212;
+  
+  }
+
+  #submit{
+    background-color:#fff;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 8px;
+  }
+
+  input{
+    text-align: center;
+    border: 1px solid transparent;
+    font-weight:500;
+    margin-bottom:8px;
+  }
+
+  
+
+  
